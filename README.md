@@ -1,6 +1,5 @@
 ### Hi there 👋
-:smiling_face_with_sunglasses:
-
+- 🔭 I’m currently working on DevOps
 
 
 <!--
